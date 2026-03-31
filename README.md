@@ -1,4 +1,16 @@
-![Dashboard](screenshots/dashboard.png,screenshots2/dashboard.png)
+## Dashboard Screenshots
+
+### Customer Segmentation
+![Customer Segmentation](screenshots/customersegmentation.png)
+
+### Data Visualization
+![Visualization](screenshots/visualization.png)
+
+### AI Insights
+![Insights](screenshots/insights.png)
+
+### Marketing Strategy
+![Marketing](screenshots/marketing.png)
 # AI-Powered Customer Segmentation
 
 Automatically segments customers using K-Means ML and generates personalised
