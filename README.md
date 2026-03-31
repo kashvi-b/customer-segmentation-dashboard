@@ -1,3 +1,4 @@
+![Dashboard](screenshots/dashboard.png,screenshots2/dashboard.png)
 # AI-Powered Customer Segmentation
 
 Automatically segments customers using K-Means ML and generates personalised
